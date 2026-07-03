@@ -6,7 +6,7 @@ import vue from '@vitejs/plugin-vue'
 export default defineConfig({
   // SI ton repo s'appelle "miokido.github.io", la base doit être '/'
   // SI ton repo s'appelle "autre-nom", la base doit être '/autre-nom/'
-  base: '/', 
+  base: '/Degenesis/', 
   
   plugins: [
     vue(),
